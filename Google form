@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form</title>
+</head>
+<body>
+    <form action="">
+<label for="">Name:</label>
+<input type="text" placeholder="Enter name"><br><br>
+<label for="">Roll no:</label>
+<input type="text" placeholder="eg.23bai029"><br><br>
+<label for="">Degree:</label>
+<input type="text" placeholder="eg.B.sc"><br><br>
+<label for="">Age:</label>
+<input type="text" placeholder="Enter Age"><br><br>
+<label for="">College</label>      
+<select name="" id="">           <Option>Hicas</Option>            
+<option value="">psgcas</option>
+<option value="">srmcas</option>
+</select><br><br><label for="">Income Certificate</label><br>        <input type="radio" name="gen">Available<br>        <input type="radio" name="gen" id="">Not available<br>        <input type="radio" name="gen" id="">Applied<br><br><label for="">Any Queries:</label><br>        <textarea name="" id="" cols="30" rows="10" placeholder="Type here...."></textarea><br><br>
+                     <button>Submit
+                     </button>  
+                     <button> Close</button>
